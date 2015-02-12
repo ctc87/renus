@@ -1,0 +1,6 @@
+.center{margin-left:auto;margin-right:auto;width:70%;background-color:#b0e0e6}
+.output{font-family:"Trebuchet MS",Verdana,Arial,Helvetica,sans-serif}
+.div1{border:5px solid red;border-radius:10px;-moz-border-radius:10px;-webkit-border-radius:10px}
+#cont1,#cont2{display:inline;position:relative;top:40px;left:330px;opacity:0}
+#cont3{display:inline;position:relative;top:40px;left:160px;opacity:0}
+#cont4{display:inline;position:relative;top:40px;right:100px;opacity:0}
