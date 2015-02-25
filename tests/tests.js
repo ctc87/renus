@@ -1,5 +1,4 @@
-//var assert = chai.assert;
-
+// volver a cambiar todo
 suite('Temperature', function() {
     test('32F = 0C and color green', function() {
         original.value = "32F";
